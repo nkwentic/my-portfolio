@@ -1,24 +1,49 @@
-# Dependencies
+# Node.js Dependencies
 node_modules/
 .pnp/
 .pnp.js
 
-# Testing
+# Testing Coverage
 coverage/
 
-# Production
+# Production Build Files
 build/
 dist/
 
-# Misc
-.DS_Store
+# Ignore .env files (sensitive environment variables)
 .env
 .env.local
 .env.development.local
 .env.test.local
 .env.production.local
 
+# macOS Finder Directory Settings
+.DS_Store
+
+# Log Files
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Optional/Additional Exclusions
+
+# Ignore TypeScript cache (if you're using TypeScript)
+*.tsbuildinfo
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+
+# Ignore lockfiles if you only want one lockfile manager
+# Uncomment the following line to ignore package-lock.json if using yarn
+# package-lock.json
+# Uncomment the following line to ignore yarn.lock if using npm
+# yarn.lock
+
+# Ignore Docker-related files (if Docker is used)
+.dockerignore
+Dockerfile
+
+# Ignore other potential OS or editor-specific files
+Thumbs.db
 
