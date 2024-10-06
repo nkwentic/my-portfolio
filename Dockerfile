@@ -1,8 +1,20 @@
-FROM node:latest
+# Use a base image with Node.js
+FROM node:14
+
+# Set working directory
 WORKDIR /app
-COPY package*.json ./   # Copies package.json and package-lock.json to /app in the container
+
+# Copy package.json and package-lock.json to the working directory in the container
+COPY package*.json ./
+
+# Install dependencies
 RUN npm install
-COPY . ./               # Copies everything from the current directory (.) to /app in the container
-RUN npm run build
+
+# Copy the rest of the application files
+COPY . .
+
+# Expose the desired port (e.g., 3000 for a Node.js app)
 EXPOSE 3000
-CMD ["npm", "run", "start"]
+
+# Start the application
+CMD ["npm", "start"]
