@@ -14,7 +14,7 @@ const About = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src={ME} alt="About Img" />
+            <img src={ME} alt="About Me Image" />
           </div>
         </div>
 
@@ -29,7 +29,7 @@ const About = () => {
             <article className="about__card">
               <FiUsers className="about__icon" />
               <h5>Core Interest</h5>
-              <small>Africans and Worldwide</small>
+              <small>Africa and Worldwide</small>
             </article>
 
             <article className="about__card">
@@ -40,10 +40,10 @@ const About = () => {
           </div>
 
           <p>
-           Ekangaki George Gedeon Njang is a seasoned Networking, Cloud, and DevOps Engineer with over 9 years of experience in designing, building, 
+            Ekangaki George Gedeon Njang is a seasoned Networking, Cloud, and DevOps Engineer with over 9 years of experience in designing, building, 
             and automating both on-premises and cloud environments. Passionate about empowering Africans, 
             he is dedicated to teaching IT skills to individuals with no prior technical background, making complex concepts accessible and relatable. 
-            Through his work, he strives to create opportunities for self-reliance and growth, driving positive change in African communities
+            Through his work, he strives to create opportunities for self-reliance and growth, driving positive change in African communities.
           </p>
 
           <a href="#contact" className="btn btn-primary">
@@ -56,3 +56,4 @@ const About = () => {
 };
 
 export default About;
+
