@@ -15,34 +15,34 @@ import "swiper/css/pagination";
 const data = [
   {
     avatar: AVTR1,
-    name: "Tina Snow",
+    name: "Epoh Irene",
     review:
-      " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores totam saepe dolorum exercitationem sequi tempore porro, placeat et, quas hic aspernatur illo rem molestias tenetur magni consectetur amet sunt ea? ",
+      " Ekangaki consistently demonstrated a deep understanding of complex network architectures. He was instrumental in optimizing our network performance and implementing robust security measures. His proactive approach to solving network issues significantly reduced downtime, ensuring seamless connectivity across our offices. A true asset to any team! ",
   },
   {
     avatar: AVTR2,
-    name: "John Snow",
+    name: "Ayompe Peter",
     review:
-      " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deleniti nihil voluptate eius illum, rem officia sed repellat tempora modi ratione? ",
+      " As our Cloud Engineer, Ekangaki played a critical role in designing and deploying scalable cloud solutions. He expertly managed our AWS infrastructure, ensuring cost efficiency and security. His ability to automate cloud processes significantly improved our system's reliability and performance. His contributions to cloud architecture were outstanding. ",
   },
   {
     avatar: AVTR3,
-    name: "Poppy Snow",
+    name: "Eric Akime",
     review:
-      " Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium tenetur odio ea deleniti voluptate quas exercitationem minima, in nesciunt adipisci consequatur at! Assumenda suscipit minima animi quibusdam eveniet incidunt perspiciatis! ",
+      " Ekangaki brought a wealth of knowledge in CI/CD automation and infrastructure as code. His expertise in tools like Jenkins, Docker, Kubernetes, and Terraform transformed our deployment processes, reducing release times and improving overall efficiency. His collaborative nature and problem-solving skills made him an indispensable part of our DevOps team. ",
   },
   {
     avatar: AVTR4,
-    name: "Danny Snow",
+    name: "Kingsley Esapa",
     review:
-      " Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, id? Labore, quis pariatur adipisci sapiente porro consequatur perferendis ea laudantium, maiores voluptas repellat quo! Aliquam quibusdam eius qui, similique, recusandae dolorum fugiat minima obcaecati exercitationem ut voluptas? Asperiores, dolorum consequatur. ",
+      " Ekangaki's work as a DevOps Engineer was exceptional. He automated and streamlined our entire deployment pipeline, making it faster and more reliable. His expertise in CI/CD, coupled with his deep knowledge of cloud infrastructure, played a key role in enhancing our software delivery. His innovative solutions and dedication to continuous improvement set him apart as a top performer on our team. ",
   },
 ];
 
 const Testimonials = () => {
   return (
     <section id="testimonials">
-      <h5>Review from clients</h5>
+      <h5>Review from Employers</h5>
       <h2>Testimonials</h2>
 
       <Swiper
