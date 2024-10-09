@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
         - name: portfolio-container
-          image: ekangaki/portforlio-website
+          image: ekangaki/portfolio-website:v2
           ports:
             - containerPort: 3000
