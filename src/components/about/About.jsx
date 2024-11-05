@@ -40,10 +40,9 @@ const About = () => {
           </div>
 
           <p>
-            Ekangaki George Gedeon Njang is a seasoned Networking, Cloud, and DevOps Engineer with over 9 years of experience in designing, building, 
-            and automating both on-premises and cloud environments. Passionate about empowering Africans, 
-            he is dedicated to teaching IT skills to individuals with no prior technical background, making complex concepts accessible and relatable. 
-            Through his work, he strives to create opportunities for self-reliance and growth, driving positive change in African communities.
+            Celestine Nkweti is a DevOps Engineer/Kubernetes Application Developer, with over 9 years of experience in designing, building, 
+            and automating both on-premises and cloud environments. Very passionate about information technology.Love teaching IT skills to individuals with no prior technical background, making complex concepts accessible and relatable to them. 
+            
           </p>
 
           <a href="#contact" className="btn btn-primary">

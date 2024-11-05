@@ -17,25 +17,25 @@ const data = [
     avatar: AVTR1,
     name: "Epoh Irene",
     review:
-      " Ekangaki consistently demonstrated a deep understanding of complex network architectures. He was instrumental in optimizing our network performance and implementing robust security measures. His proactive approach to solving network issues significantly reduced downtime, ensuring seamless connectivity across our offices. A true asset to any team! ",
+      " Celestine consistently demonstrated a deep understanding of AWS and google platform infrastructures.  A true asset to any team! ",
   },
   {
     avatar: AVTR2,
     name: "Ayompe Peter",
     review:
-      " As our Cloud Engineer, Ekangaki played a critical role in designing and deploying scalable cloud solutions. He expertly managed our AWS infrastructure, ensuring cost efficiency and security. His ability to automate cloud processes significantly improved our system's reliability and performance. His contributions to cloud architecture were outstanding. ",
+      " As our Cloud Engineer, Celestine played a critical role in designing and deploying secured, highly available and scalable cloud infrastructures. He expertly managed our AWS infrastructure, ensuring cost efficiency and security. His ability to automate cloud processes significantly improved our system's reliability and performance. His contributions to cloud architecture were outstanding. ",
   },
   {
     avatar: AVTR3,
     name: "Eric Akime",
     review:
-      " Ekangaki brought a wealth of knowledge in CI/CD automation and infrastructure as code. His expertise in tools like Jenkins, Docker, Kubernetes, and Terraform transformed our deployment processes, reducing release times and improving overall efficiency. His collaborative nature and problem-solving skills made him an indispensable part of our DevOps team. ",
+      " Celestine brought a wealth of knowledge in CI/CD automation and infrastructure as code. His expertise in tools like Jenkins, Docker, Kubernetes, and Terraform transformed our deployment processes, reducing release times and improving overall efficiency. His collaborative nature and problem-solving skills made him an indispensable part of our DevOps team. ",
   },
   {
     avatar: AVTR4,
     name: "Kingsley Esapa",
     review:
-      " Ekangaki's work as a DevOps Engineer was exceptional. He automated and streamlined our entire deployment pipeline, making it faster and more reliable. His expertise in CI/CD, coupled with his deep knowledge of cloud infrastructure, played a key role in enhancing our software delivery. His innovative solutions and dedication to continuous improvement set him apart as a top performer on our team. ",
+      " Celestine's work as a DevOps Engineer was exceptional. He automated and streamlined our entire deployment pipeline, making it faster and more reliable. His expertise in CI/CD, coupled with his deep knowledge of cloud infrastructure, played a key role in enhancing our software delivery. His innovative solutions and dedication to continuous improvement set him apart as a top performer on our team. ",
   },
 ];
 
